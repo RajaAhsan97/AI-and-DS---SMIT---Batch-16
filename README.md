@@ -1,1 +1,0 @@
-e:\Saylani AI and data science course\Batch 16 - 2026\recordings\thumbnails and dp\AI and DS course tumbnail_v1.png

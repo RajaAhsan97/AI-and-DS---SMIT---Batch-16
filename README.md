@@ -1,0 +1,1 @@
+E:\Saylani AI and data science course\Batch 16 - 2026\AI and DS course tumbnail_v1.png

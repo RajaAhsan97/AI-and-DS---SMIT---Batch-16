@@ -1,1 +1,1 @@
-E:\Saylani AI and data science course\Batch 16 - 2026\AI and DS course tumbnail_v1.png
+<img width="1536" height="1024" alt="AI and DS course tumbnail_v1" src="AI and DS course tumbnail_v1.png" />

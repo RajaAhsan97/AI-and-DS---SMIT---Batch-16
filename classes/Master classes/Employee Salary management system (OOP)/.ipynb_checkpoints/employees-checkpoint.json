@@ -1,0 +1,18 @@
+[
+    {
+        "employee_id": "e1-009",
+        "name": "Ahsan",
+        "designation": "Senior Lecturer",
+        "basic_salary": 100000.0,
+        "allowances": 50000.0,
+        "deductions": 20000.0
+    },
+    {
+        "employee_id": "e1-088",
+        "name": "Saad",
+        "designation": "instructor",
+        "basic_salary": 60000.0,
+        "allowances": 10000.0,
+        "deductions": 4000.0
+    }
+]
